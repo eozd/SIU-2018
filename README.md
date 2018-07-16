@@ -2,7 +2,9 @@
 * Türkçe versiyon aşağıdadır. (see Turkish version below)
 
 This is the repository for 26th IEEE Signal Processing and Communications Applications
-Conference (SIU) paper "Predicting Soccer Events From Optical Tracking Data". In
+Conference (SIU) paper "Predicting Soccer Events From Optical Tracking Data" (https://ieeexplore.ieee.org/document/8404561)
+
+In
 this repository you will find all the data analysis, dataset construction,
 model development and testing notebooks written using jupyter notebooks and python.
 Additionally, a fast C++ library for computing the features used in our project
@@ -21,7 +23,9 @@ use this library.
 # Optik Takip Verisinden Futbol Olaylarının Kestirimi
 Burası, 26. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı'nda
 sunulacak olan "Optik Takip Verisinden Futbol Olaylarının Kestirimi" bildirisi
-sayfasıdır. Bu sayfada veri analizi, veri kümesi oluşturumu, model geliştirme ve
+sayfasıdır. (https://ieeexplore.ieee.org/document/8404561)
+
+Bu sayfada veri analizi, veri kümesi oluşturumu, model geliştirme ve
 test etme amacıyla jupyter notebook platformunda python ile yazılmış notlar ve
 kodlar bulunmaktadır. Ayrıca C++ dilinde yazılmış hızlı bir öznitelik hesaplama
 kütüphanesine yer verilmiştir.
